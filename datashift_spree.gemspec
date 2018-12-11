@@ -21,6 +21,7 @@ Gem::Specification.new do |s|
 
 
   # leave it to datashift to define Rails versions
+  s.add_runtime_dependency 'rails'
   s.add_runtime_dependency 'datashift'
   s.add_runtime_dependency 'mechanize', '~> 2.6', '>= 2.6.0'
   s.add_runtime_dependency 'spree', '>= 2'
