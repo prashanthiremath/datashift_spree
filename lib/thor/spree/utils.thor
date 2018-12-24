@@ -23,7 +23,7 @@ module DatashiftSpree
 
       require File.expand_path('config/environment.rb')
 
-      require 'spree_ecom'
+      #require 'spree_ecom'
 
       require File.expand_path('config/environment.rb')
 
